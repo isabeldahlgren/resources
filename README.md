@@ -1,2 +1,5 @@
 # Teaching resources
-Optional exercises and notes.
+
+Expository notes, optional exercises, checklists. Feel free to use these resources as you like.
+
+Happy revision!
