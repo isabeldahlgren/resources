@@ -6,7 +6,7 @@
 
 #align(center)[
   #text(size: 22pt, weight: "semibold")[Checklista för teori]
-  #v(-0.3em)
+  #v(1em)
   Teori i kursen SF1698 (D. Rydh), HT26.
 ]
 
@@ -50,4 +50,8 @@ Här är lista på teori du förväntas kunna. För begrepp, ange definitionerna
 - Partition
 - Ekvivalensklass
 - Partialordning
+- Aritmetisk, geometrisk talföljd #note[F9-F10]
+- Hur induktionsbevis fungerar#footnote[Se s. 6 i _Föreläsning 9_.]
+- Hur sanningstabeller fungerar
+- Symbolerna $or, and, not$
 
