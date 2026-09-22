@@ -54,4 +54,20 @@ Här är lista på teori du förväntas kunna. För begrepp, ange definitionerna
 - Hur induktionsbevis fungerar#footnote[Se s. 6 i _Föreläsning 9_.]
 - Hur sanningstabeller fungerar
 - Symbolerna $or, and, not$
-
+- Oberoende händelser #note[F11-F14]
+- Binominalkoefficienten $binom(n, k)$
+- Tolkning av binominalkoefficienten
+- Varför $binom(n, k) = binom(n-1, k-1) + binom(n-1, k)$ (Pascals identitet)
+- Beräkning av binominalkoefficienter m.h.a. Pascals triangel
+- Binominalsatsen
+- Varför $binom(n, k) = binom(n, n-k)$
+- Varför $sum_(k=0)^n binom(n, k) = 2^n$
+- Multinominalkoefficienten $binom(n, a_1, ..., a_r)$
+- Tolkning av multinominalkoefficienten
+- Multinominalsatsen
+- Stars-and-bars-argument (komposition, svag komposition)
+- Formler för urval med/utan ordning, med/utan repetition
+- Postfacksprincipen
+- Principen om inklusion-exklusion
+- Två tolkningar av stirlingtalen
+- Rekursioner för stirlingtal
